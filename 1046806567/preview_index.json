@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1046806567",
-  "updated_at": "2026-07-16T14:36:44+00:00",
+  "updated_at": "2026-07-16T14:37:12+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -50,6 +50,12 @@
       "file": "原生底色-彩原poKitty禁止二传-转换-透明Logo.bds",
       "thumb": "原生底色-彩原poKitty禁止二传-转换-透明Logo.bds_py_26_light_thumb.png",
       "full": "原生底色-彩原poKitty禁止二传-转换-透明Logo.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "原生底色-彩原poKitty禁止二传.bdi",
+      "thumb": "原生底色-彩原poKitty禁止二传.bdi_py_26_light_thumb.png",
+      "full": "原生底色-彩原poKitty禁止二传.bdi_py_26_light_thumb.png"
     }
   ]
 }
