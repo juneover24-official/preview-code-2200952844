@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "705166044",
-  "updated_at": "2026-07-19T11:50:09+00:00",
+  "updated_at": "2026-07-19T11:50:28+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -26,6 +26,12 @@
       "file": "用户404-彩原poKitty-音效转换-Logo转换-透明Logo.bds",
       "thumb": "用户404-彩原poKitty-音效转换-Logo转换-透明Logo.bds_py_26_light_thumb.png",
       "full": "用户404-彩原poKitty-音效转换-Logo转换-透明Logo.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "用户404-融原poKitty-音效转换-Logo转换-透明Logo.bds",
+      "thumb": "用户404-融原poKitty-音效转换-Logo转换-透明Logo.bds_py_26_light_thumb.png",
+      "full": "用户404-融原poKitty-音效转换-Logo转换-透明Logo.bds_py_26_light_thumb.png"
     }
   ]
 }
