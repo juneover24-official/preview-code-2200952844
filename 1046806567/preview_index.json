@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1046806567",
-  "updated_at": "2026-07-19T00:40:31+00:00",
+  "updated_at": "2026-07-19T00:41:25+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -92,6 +92,12 @@
       "file": "纯色花-彩原poKitty-转换-Logo转换-透明Logo.bds",
       "thumb": "纯色花-彩原poKitty-转换-Logo转换-透明Logo.bds_py_26_light_thumb.png",
       "full": "纯色花-彩原poKitty-转换-Logo转换-透明Logo.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "蛋堡-粉兔笺",
+      "file": "蛋堡-粉兔笺无背景融.bds",
+      "thumb": "蛋堡-粉兔笺无背景融.bds_py_26_light_thumb.png",
+      "full": "蛋堡-粉兔笺无背景融.bds_py_26_light_thumb.png"
     }
   ]
 }
