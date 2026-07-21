@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1046806567",
-  "updated_at": "2026-07-21T15:56:34+00:00",
+  "updated_at": "2026-07-21T15:56:40+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -95,15 +95,15 @@
     },
     {
       "name": "名字不建议加多余的符号",
-      "file": "纯白特质-彩原poKitty-无背景.bdi",
-      "thumb": "纯白特质-彩原poKitty-无背景.bdi_py_26_light_thumb.png",
-      "full": "纯白特质-彩原poKitty-无背景.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "名字不建议加多余的符号",
       "file": "纯白特质-融原poKitty.bdi",
       "thumb": "纯白特质-融原poKitty.bdi_py_26_light_thumb.png",
       "full": "纯白特质-融原poKitty.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "纯白特质-彩原poKitty-无背景.bdi",
+      "thumb": "纯白特质-彩原poKitty-无背景.bdi_py_26_light_thumb.png",
+      "full": "纯白特质-彩原poKitty-无背景.bdi_py_26_light_thumb.png"
     }
   ]
 }
