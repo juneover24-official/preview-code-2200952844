@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1081488689",
-  "updated_at": "2026-07-23T11:22:55+00:00",
+  "updated_at": "2026-07-23T11:23:33+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -14,6 +14,12 @@
       "file": "西和奈和她所期望的一切-彩原poKitty.bdi",
       "thumb": "西和奈和她所期望的一切-彩原poKitty.bdi_py_26_light_thumb.png",
       "full": "西和奈和她所期望的一切-彩原poKitty.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "西和奈和她所期望的一切-原poKitty-无背景.bdi",
+      "thumb": "西和奈和她所期望的一切-原poKitty-无背景.bdi_py_26_light_thumb.png",
+      "full": "西和奈和她所期望的一切-原poKitty-无背景.bdi_py_26_light_thumb.png"
     }
   ]
 }
