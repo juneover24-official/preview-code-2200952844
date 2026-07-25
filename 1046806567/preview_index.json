@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1046806567",
-  "updated_at": "2026-07-25T13:30:10+00:00",
+  "updated_at": "2026-07-25T15:31:46+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -152,6 +152,12 @@
       "file": "死水银原poKitty-融.bdi",
       "thumb": "死水银原poKitty-融.bdi_py_26_light_thumb.png",
       "full": "死水银原poKitty-融.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "死水银原poKitty-彩.bdi",
+      "thumb": "死水银原poKitty-彩.bdi_py_26_light_thumb.png",
+      "full": "死水银原poKitty-彩.bdi_py_26_light_thumb.png"
     }
   ]
 }
