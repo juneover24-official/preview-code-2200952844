@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1087345021",
-  "updated_at": "2026-07-27T12:57:25+00:00",
+  "updated_at": "2026-07-28T16:02:38+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -26,6 +26,12 @@
       "file": "2010-彩原poKitty.bdi",
       "thumb": "2010-彩原poKitty.bdi_py_26_light_thumb.png",
       "full": "2010-彩原poKitty.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "2010-融原poKitty.bds",
+      "thumb": "2010-融原poKitty.bds_py_26_light_thumb.png",
+      "full": "2010-融原poKitty.bds_py_26_light_thumb.png"
     }
   ]
 }
