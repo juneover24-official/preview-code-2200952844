@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-07-30T15:52:14+00:00",
+  "updated_at": "2026-07-30T15:58:34+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -44,6 +44,12 @@
       "file": "你吃瓜不.bdi",
       "thumb": "你吃瓜不.bdi_py_26_light_thumb.png",
       "full": "你吃瓜不.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "天使叽-融脆原poKitty.bdi",
+      "thumb": "天使叽-融脆原poKitty.bdi_py_26_light_thumb.png",
+      "full": "天使叽-融脆原poKitty.bdi_py_26_light_thumb.png"
     }
   ]
 }
