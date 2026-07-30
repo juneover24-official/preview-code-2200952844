@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-07-29T11:33:59+00:00",
+  "updated_at": "2026-07-30T11:53:27+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -32,6 +32,12 @@
       "file": "盲天使叽-融闷原poKitty.bdi",
       "thumb": "盲天使叽-融闷原poKitty.bdi_py_26_light_thumb.png",
       "full": "盲天使叽-融闷原poKitty.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "盲天使叽-彩闷原poKitty.bds",
+      "thumb": "盲天使叽-彩闷原poKitty.bds_py_26_light_thumb.png",
+      "full": "盲天使叽-彩闷原poKitty.bds_py_26_light_thumb.png"
     }
   ]
 }
