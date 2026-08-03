@@ -1,13 +1,19 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
+  "updated_at": "2026-08-03T12:10:08+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
       "file": "梦的开始原poKitty-彩.bdi",
       "thumb": "梦的开始原poKitty-彩.bdi_py_26_light_thumb.png",
       "full": "梦的开始原poKitty-彩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "梦的开始原poKitty-无背景.bdi",
+      "thumb": "梦的开始原poKitty-无背景.bdi_py_26_light_thumb.png",
+      "full": "梦的开始原poKitty-无背景.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-08-03T10:01:05+00:00"
+  ]
 }
