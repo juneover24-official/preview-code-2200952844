@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
-  "updated_at": "2026-09-16T00:38:35+00:00",
+  "updated_at": "2026-09-16T00:39:21+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -89,6 +89,13 @@
       "thumb": "天使心-融.bdi_py_26_light_thumb.png",
       "full": "天使心-融.bdi_py_26_light_thumb.png",
       "file_id": "f5420887cb5a09f26acbcc456a89a80b"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "電子淚-原po病涩-无背景.bdi",
+      "thumb": "電子淚-原po病涩-无背景.bdi_py_26_light_thumb.png",
+      "full": "電子淚-原po病涩-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "e544d16f60fc5ffbc9f7c1930c398fee"
     }
   ]
 }
