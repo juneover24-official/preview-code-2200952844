@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-08-01T03:21:14+00:00",
+  "updated_at": "2026-09-16T09:17:33+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -74,6 +74,13 @@
       "file": "星星糖-彩原poKitty.bdi",
       "thumb": "星星糖-彩原poKitty.bdi_py_26_light_thumb.png",
       "full": "星星糖-彩原poKitty.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "请问您今天要来点兔子吗-彩.bds",
+      "thumb": "请问您今天要来点兔子吗-彩.bds_py_26_light_thumb.png",
+      "full": "请问您今天要来点兔子吗-彩.bds_py_26_light_thumb.png",
+      "file_id": "6e1ea8382dfad11808b4684ab660c21d"
     }
   ]
 }
