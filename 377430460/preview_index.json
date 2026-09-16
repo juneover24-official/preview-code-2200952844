@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
-  "updated_at": "2026-09-15T13:38:10+00:00",
+  "updated_at": "2026-09-16T00:37:25+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -68,6 +68,13 @@
       "thumb": "天使心-彩.bds_py_26_light_thumb.png",
       "full": "天使心-彩.bds_py_26_light_thumb.png",
       "file_id": "57c92078a05f12158401be7a0003cfb7"
+    },
+    {
+      "name": "Cfy For Me",
+      "file": "CfyForMe-无背景.bdi",
+      "thumb": "CfyForMe-无背景.bdi_py_26_light_thumb.png",
+      "full": "CfyForMe-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "e09b7296d9b0937ebd2e6ae810636923"
     }
   ]
 }
