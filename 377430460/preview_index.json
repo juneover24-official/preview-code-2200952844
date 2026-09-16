@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
-  "updated_at": "2026-09-16T00:40:24+00:00",
+  "updated_at": "2026-09-16T00:41:14+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -110,6 +110,13 @@
       "thumb": "无帧模式-无背景.bdi_py_26_light_thumb.png",
       "full": "无帧模式-无背景.bdi_py_26_light_thumb.png",
       "file_id": "e4f2346d489435f109f78367c4c249d3"
+    },
+    {
+      "name": "无帧模式",
+      "file": "无帧模式-融.bdi",
+      "thumb": "无帧模式-融.bdi_py_26_light_thumb.png",
+      "full": "无帧模式-融.bdi_py_26_light_thumb.png",
+      "file_id": "acb2677f732e42094698248c6a3faee5"
     }
   ]
 }
