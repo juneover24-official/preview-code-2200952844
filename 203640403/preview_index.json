@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "203640403",
-  "updated_at": "2026-09-17T12:34:48+00:00",
+  "updated_at": "2026-09-17T16:59:45+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -30,6 +30,13 @@
       "thumb": "灰粉续集-融1.bdi_py_26_light_thumb.png",
       "full": "灰粉续集-融1.bdi_py_26_light_thumb.png",
       "file_id": "4f3111b3e3340a339ff1f7ed953816e7"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "灰粉续集-无背景.bdi",
+      "thumb": "灰粉续集-无背景.bdi_py_26_light_thumb.png",
+      "full": "灰粉续集-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "13c4a7ce6c4c15f64b9bbfe47377f334"
     }
   ]
 }
