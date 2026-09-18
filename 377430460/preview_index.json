@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
-  "updated_at": "2026-09-18T15:17:15+00:00",
+  "updated_at": "2026-09-18T15:17:51+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -173,6 +173,13 @@
       "thumb": "天使心-融.bds_py_26_light_thumb.png",
       "full": "天使心-融.bds_py_26_light_thumb.png",
       "file_id": "1bb759df3d64e9690f1b117a0c50c208"
+    },
+    {
+      "name": "无帧模式",
+      "file": "无帧模式-彩.bdi",
+      "thumb": "无帧模式-彩.bdi_py_26_light_thumb.png",
+      "full": "无帧模式-彩.bdi_py_26_light_thumb.png",
+      "file_id": "edca833a79bf4e5f73e4319063d844e2"
     }
   ]
 }
