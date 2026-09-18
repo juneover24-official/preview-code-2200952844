@@ -1,6 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1103171923",
+  "updated_at": "2026-09-18T04:28:19+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -8,7 +9,13 @@
       "thumb": "心率-融原poKitty.bds_py_26_light_thumb.png",
       "full": "心率-融原poKitty.bds_py_26_light_thumb.png",
       "file_id": "72e4d4712d6206991635649bc9ab640c"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "心率-彩原poKitty.bds",
+      "thumb": "心率-彩原poKitty.bds_py_26_light_thumb.png",
+      "full": "心率-彩原poKitty.bds_py_26_light_thumb.png",
+      "file_id": "02e703e8cf8e95ecc1089a2404e9af7b"
     }
-  ],
-  "updated_at": "2026-09-15T14:53:06+00:00"
+  ]
 }
