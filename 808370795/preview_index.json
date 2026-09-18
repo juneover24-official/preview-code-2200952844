@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "808370795",
-  "updated_at": "2026-09-18T13:26:21+00:00",
+  "updated_at": "2026-09-18T13:26:36+00:00",
   "skins": [
     {
       "name": "砂糖",
@@ -61,17 +61,17 @@
     },
     {
       "name": "乐妍底包",
-      "file": "波点系统-融.bds",
-      "thumb": "波点系统-融.bds_py_26_light_thumb.png",
-      "full": "波点系统-融.bds_py_26_light_thumb.png",
-      "file_id": "b72336476e58a2502e21129176b2f66f"
-    },
-    {
-      "name": "乐妍底包",
       "file": "波点系统-融.bdi",
       "thumb": "波点系统-融.bdi_py_26_light_thumb.png",
       "full": "波点系统-融.bdi_py_26_light_thumb.png",
       "file_id": "60e633b001dec1685a8cd206b0e0c0fa"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "波点系统-融.bds",
+      "thumb": "波点系统-融.bds_py_26_light_thumb.png",
+      "full": "波点系统-融.bds_py_26_light_thumb.png",
+      "file_id": "b72336476e58a2502e21129176b2f66f"
     }
   ]
 }
