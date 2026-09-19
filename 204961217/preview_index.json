@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-09-16T09:17:51+00:00",
+  "updated_at": "2026-09-19T11:17:14+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -88,6 +88,13 @@
       "thumb": "桂言叶-彩.bds_py_26_light_thumb.png",
       "full": "桂言叶-彩.bds_py_26_light_thumb.png",
       "file_id": "d4aa54bae20e97b14d33188376632d6b"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "请问您今天要来点兔子吗-无背景.bdi",
+      "thumb": "请问您今天要来点兔子吗-无背景.bdi_py_26_light_thumb.png",
+      "full": "请问您今天要来点兔子吗-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "d2921edc6031722db081415ad07ef0f5"
     }
   ]
 }
