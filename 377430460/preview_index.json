@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
-  "updated_at": "2026-09-18T15:19:08+00:00",
+  "updated_at": "2026-09-21T17:02:01+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -194,6 +194,13 @@
       "thumb": "Doll养成计划-无背景.bdi_py_26_light_thumb.png",
       "full": "Doll养成计划-无背景.bdi_py_26_light_thumb.png",
       "file_id": "29d6d920d1c3bf95bce285fb79ea77f5"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "女仆2.bdi",
+      "thumb": "女仆2.bdi_py_26_light_thumb.png",
+      "full": "女仆2.bdi_py_26_light_thumb.png",
+      "file_id": "a5a73b681f5e3842879258b9e461fcea"
     }
   ]
 }
