@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-09-21T18:32:29+00:00",
+  "updated_at": "2026-09-21T18:32:50+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -130,6 +130,13 @@
       "thumb": "凌波丽原poKitty-融二.bdi_py_26_light_thumb.png",
       "full": "凌波丽原poKitty-融二.bdi_py_26_light_thumb.png",
       "file_id": "89263d4031c9b1bc1d9feb165221d0af"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "天使叽-彩脆原poKitty.bdi",
+      "thumb": "天使叽-彩脆原poKitty.bdi_py_26_light_thumb.png",
+      "full": "天使叽-彩脆原poKitty.bdi_py_26_light_thumb.png",
+      "file_id": "e8dacec514d2d80b2b3bc4e1de9f2c5f"
     }
   ]
 }
