@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-09-21T18:38:18+00:00",
+  "updated_at": "2026-09-21T18:38:56+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -172,6 +172,13 @@
       "thumb": "凌波丽原poKitty-融.bds_py_26_light_thumb.png",
       "full": "凌波丽原poKitty-融.bds_py_26_light_thumb.png",
       "file_id": "09da57a078a4cf50a187e9716933a816"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "凌波丽原poKitty-融二.bds",
+      "thumb": "凌波丽原poKitty-融二.bds_py_26_light_thumb.png",
+      "full": "凌波丽原poKitty-融二.bds_py_26_light_thumb.png",
+      "file_id": "d3e91e0283c68a7245967eb3f70366dc"
     }
   ]
 }
