@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-09-21T18:34:28+00:00",
+  "updated_at": "2026-09-21T18:37:08+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -151,6 +151,13 @@
       "thumb": "盲天使叽-脆原poKitty-无背景.bdi_py_26_light_thumb.png",
       "full": "盲天使叽-脆原poKitty-无背景.bdi_py_26_light_thumb.png",
       "file_id": "d19ec2514327a1c78541575984758637"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "桂言叶-融.bds",
+      "thumb": "桂言叶-融.bds_py_26_light_thumb.png",
+      "full": "桂言叶-融.bds_py_26_light_thumb.png",
+      "file_id": "975c8f5ed7b0f5fa8a72e8e4e81acb62"
     }
   ]
 }
