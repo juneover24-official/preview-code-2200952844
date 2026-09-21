@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "808370795",
-  "updated_at": "2026-09-18T13:27:26+00:00",
+  "updated_at": "2026-09-21T17:27:19+00:00",
   "skins": [
     {
       "name": "砂糖",
@@ -72,6 +72,13 @@
       "thumb": "波点系统-彩.bdi_py_26_light_thumb.png",
       "full": "波点系统-彩.bdi_py_26_light_thumb.png",
       "file_id": "eebc32d9498b63bf46763d01b4e06dc2"
+    },
+    {
+      "name": "我们最最好",
+      "file": "我们最最好融.bdi",
+      "thumb": "我们最最好融.bdi_py_26_light_thumb.png",
+      "full": "我们最最好融.bdi_py_26_light_thumb.png",
+      "file_id": "82e0339ea4190f6c164e7b06d32be346"
     }
   ]
 }
