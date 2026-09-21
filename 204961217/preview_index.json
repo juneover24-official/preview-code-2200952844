@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-09-21T18:33:39+00:00",
+  "updated_at": "2026-09-21T18:34:09+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -144,6 +144,13 @@
       "thumb": "盲天使叽-彩脆原poKitty.bdi_py_26_light_thumb.png",
       "full": "盲天使叽-彩脆原poKitty.bdi_py_26_light_thumb.png",
       "file_id": "d3a9612e21f653054e583292147a54ed"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "盲天使叽-脆原poKitty-无背景.bdi",
+      "thumb": "盲天使叽-脆原poKitty-无背景.bdi_py_26_light_thumb.png",
+      "full": "盲天使叽-脆原poKitty-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "d19ec2514327a1c78541575984758637"
     }
   ]
 }
