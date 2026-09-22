@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1106506840",
-  "updated_at": "2026-09-22T01:34:18+00:00",
+  "updated_at": "2026-09-22T01:34:56+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -23,6 +23,13 @@
       "thumb": "乐频-无背景.bdi_py_26_light_thumb.png",
       "full": "乐频-无背景.bdi_py_26_light_thumb.png",
       "file_id": "0fac2197d15afc72e8a612b2df089e40"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "乐频-彩.bdi",
+      "thumb": "乐频-彩.bdi_py_26_light_thumb.png",
+      "full": "乐频-彩.bdi_py_26_light_thumb.png",
+      "file_id": "f8b61599dd121c3f01c95f4e9228d396"
     }
   ]
 }
