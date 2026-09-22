@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
-  "updated_at": "2026-09-22T18:53:08+00:00",
+  "updated_at": "2026-09-22T18:54:11+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -250,6 +250,13 @@
       "thumb": "Hush闷音彩底原po刀刀2485367591.bds_py_26_light_thumb.png",
       "full": "Hush闷音彩底原po刀刀2485367591.bds_py_26_light_thumb.png",
       "file_id": "95eb3cc977a6a2d79068aa4db5549b34"
+    },
+    {
+      "name": "Doll养成计划原poKitty",
+      "file": "Doll养成计划-彩.bds",
+      "thumb": "Doll养成计划-彩.bds_py_26_light_thumb.png",
+      "full": "Doll养成计划-彩.bds_py_26_light_thumb.png",
+      "file_id": "3476147a6a5e08f2539697ab190b83ed"
     }
   ]
 }
