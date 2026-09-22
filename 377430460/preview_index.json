@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
-  "updated_at": "2026-09-22T08:36:42+00:00",
+  "updated_at": "2026-09-22T08:37:17+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -217,18 +217,18 @@
       "file_id": "80dc681b17bc3ca7340ee7ec0348c298"
     },
     {
-      "name": "gloomy",
-      "file": "gloomy-无背景.bdi",
-      "thumb": "gloomy-无背景.bdi_py_26_light_thumb.png",
-      "full": "gloomy-无背景.bdi_py_26_light_thumb.png",
-      "file_id": "24ee85f16e35b5e35a1d23347d761592"
-    },
-    {
       "name": "Cfy For Me",
       "file": "CfyForMe-彩.bdi",
       "thumb": "CfyForMe-彩.bdi_py_26_light_thumb.png",
       "full": "CfyForMe-彩.bdi_py_26_light_thumb.png",
       "file_id": "40c8ecdbe80ad800e046e81bc6fc9923"
+    },
+    {
+      "name": "gloomy",
+      "file": "gloomy-无背景.bdi",
+      "thumb": "gloomy-无背景.bdi_py_26_light_thumb.png",
+      "full": "gloomy-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "24ee85f16e35b5e35a1d23347d761592"
     }
   ]
 }
