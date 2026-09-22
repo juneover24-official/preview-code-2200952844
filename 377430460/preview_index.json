@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
-  "updated_at": "2026-09-22T18:54:11+00:00",
+  "updated_at": "2026-09-22T18:54:44+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -257,6 +257,13 @@
       "thumb": "Doll养成计划-彩.bds_py_26_light_thumb.png",
       "full": "Doll养成计划-彩.bds_py_26_light_thumb.png",
       "file_id": "3476147a6a5e08f2539697ab190b83ed"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "電子淚-原po病涩-融.bds",
+      "thumb": "電子淚-原po病涩-融.bds_py_26_light_thumb.png",
+      "full": "電子淚-原po病涩-融.bds_py_26_light_thumb.png",
+      "file_id": "822b408c4597cebe245771c7f21227cd"
     }
   ]
 }
