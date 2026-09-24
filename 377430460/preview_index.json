@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
-  "updated_at": "2026-09-24T08:39:42+00:00",
+  "updated_at": "2026-09-24T09:22:01+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -285,6 +285,13 @@
       "thumb": "朦胧-融.bds_py_26_light_thumb.png",
       "full": "朦胧-融.bds_py_26_light_thumb.png",
       "file_id": "de16a4563450b00a96da5c59dd104a60"
+    },
+    {
+      "name": "朦胧",
+      "file": "朦胧-彩.bdi",
+      "thumb": "朦胧-彩.bdi_py_26_light_thumb.png",
+      "full": "朦胧-彩.bdi_py_26_light_thumb.png",
+      "file_id": "7482621529b1b78e3f3606e9262ddb70"
     }
   ]
 }
