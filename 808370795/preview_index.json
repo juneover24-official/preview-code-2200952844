@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "808370795",
-  "updated_at": "2026-09-23T14:03:01+00:00",
+  "updated_at": "2026-09-25T14:26:32+00:00",
   "skins": [
     {
       "name": "砂糖",
@@ -93,6 +93,13 @@
       "thumb": "电子系女孩-彩.bdi_py_26_light_thumb.png",
       "full": "电子系女孩-彩.bdi_py_26_light_thumb.png",
       "file_id": "40999aecb7b3ab4e6c034936876aa80d"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "休恋逝水彩-无背景.bdi",
+      "thumb": "休恋逝水彩-无背景.bdi_py_26_light_thumb.png",
+      "full": "休恋逝水彩-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "d2db59189ee51cc33fb91ada0dfcd414"
     }
   ]
 }
