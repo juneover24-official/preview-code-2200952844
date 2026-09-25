@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1090636657",
-  "updated_at": "2026-09-25T13:21:10+00:00",
+  "updated_at": "2026-09-25T13:22:36+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -44,6 +44,13 @@
       "thumb": "Thursday音较二-融.bds_py_26_light_thumb.png",
       "full": "Thursday音较二-融.bds_py_26_light_thumb.png",
       "file_id": "f8b5a73f506037442f66f5546e078fbd"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "Thursday音较一-彩.bdi",
+      "thumb": "Thursday音较一-彩.bdi_py_26_light_thumb.png",
+      "full": "Thursday音较一-彩.bdi_py_26_light_thumb.png",
+      "file_id": "11069b0e29a3fbfc00624c7e740c8109"
     }
   ]
 }
