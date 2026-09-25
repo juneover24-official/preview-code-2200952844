@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-09-25T12:32:50+00:00",
+  "updated_at": "2026-09-25T12:51:43+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -44,6 +44,13 @@
       "thumb": "星期一-特别融.bds_py_26_light_thumb.png",
       "full": "星期一-特别融.bds_py_26_light_thumb.png",
       "file_id": "733dcd08a6e9bc6537f06fa3c23fd517"
+    },
+    {
+      "name": "星期一",
+      "file": "星期一-彩.bds",
+      "thumb": "星期一-彩.bds_py_26_light_thumb.png",
+      "full": "星期一-彩.bds_py_26_light_thumb.png",
+      "file_id": "af41c010232e23fdb8659e88d6be40ee"
     }
   ]
 }
