@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-09-28T08:30:36+00:00",
+  "updated_at": "2026-09-28T08:31:10+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -221,6 +221,13 @@
       "thumb": "利姆露-彩.bds_py_26_light_thumb.png",
       "full": "利姆露-彩.bds_py_26_light_thumb.png",
       "file_id": "edcd32097680025fb48a1aca8c00befe"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "利姆露-彩.bdi",
+      "thumb": "利姆露-彩.bdi_py_26_light_thumb.png",
+      "full": "利姆露-彩.bdi_py_26_light_thumb.png",
+      "file_id": "21727de747ace6d4abbb99bde875ccd8"
     }
   ]
 }
