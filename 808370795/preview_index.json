@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "808370795",
-  "updated_at": "2026-09-25T14:34:30+00:00",
+  "updated_at": "2026-09-28T08:34:00+00:00",
   "skins": [
     {
       "name": "砂糖",
@@ -114,6 +114,13 @@
       "thumb": "休恋逝水融.bdi_py_26_light_thumb.png",
       "full": "休恋逝水融.bdi_py_26_light_thumb.png",
       "file_id": "6f08512922c545af6f0b528247bbd5f6"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "休恋逝水融.bds",
+      "thumb": "休恋逝水融.bds_py_26_light_thumb.png",
+      "full": "休恋逝水融.bds_py_26_light_thumb.png",
+      "file_id": "9d48e47716cc2762ea89f7796e622eee"
     }
   ]
 }
