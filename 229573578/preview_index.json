@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "229573578",
-  "updated_at": "2026-10-03T21:11:22+00:00",
+  "updated_at": "2026-10-03T21:11:44+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -58,6 +58,13 @@
       "thumb": "我的手机-原poKitty-无背景.bdi_py_26_light_thumb.png",
       "full": "我的手机-原poKitty-无背景.bdi_py_26_light_thumb.png",
       "file_id": "4ac9abbdc826a5689b9e783b5b88ff5a"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "我的手机-原poKitty漂浮-无背景.bdi",
+      "thumb": "我的手机-原poKitty漂浮-无背景.bdi_py_26_light_thumb.png",
+      "full": "我的手机-原poKitty漂浮-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "dd258a667354e2f91d47eddd54da695c"
     }
   ]
 }
