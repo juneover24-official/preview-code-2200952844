@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "2157047318",
-  "updated_at": "2026-10-03T19:42:22+00:00",
+  "updated_at": "2026-10-03T19:42:34+00:00",
   "skins": [
     {
       "name": "Killer Kitty-原poKitty",
@@ -26,17 +26,17 @@
     },
     {
       "name": "乐妍底包",
-      "file": "KillerKitty-融.bdi",
-      "thumb": "KillerKitty-融.bdi_py_26_light_thumb.png",
-      "full": "KillerKitty-融.bdi_py_26_light_thumb.png",
-      "file_id": "5eff87ba32efd612678b3f2efbeca800"
-    },
-    {
-      "name": "乐妍底包",
       "file": "KillerKitty-彩.bdi",
       "thumb": "KillerKitty-彩.bdi_py_26_light_thumb.png",
       "full": "KillerKitty-彩.bdi_py_26_light_thumb.png",
       "file_id": "f75d6daeef698f928953c2158475d596"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "KillerKitty-融.bdi",
+      "thumb": "KillerKitty-融.bdi_py_26_light_thumb.png",
+      "full": "KillerKitty-融.bdi_py_26_light_thumb.png",
+      "file_id": "5eff87ba32efd612678b3f2efbeca800"
     }
   ]
 }
