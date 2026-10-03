@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1124802293",
-  "updated_at": "2026-10-03T19:22:25+00:00",
+  "updated_at": "2026-10-03T19:22:49+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -37,6 +37,13 @@
       "thumb": "少女暴君漂浮-无背景.bdi_py_26_light_thumb.png",
       "full": "少女暴君漂浮-无背景.bdi_py_26_light_thumb.png",
       "file_id": "6c243eaa453165939204aad7b3f55f53"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "少女暴君-彩漂浮.bds",
+      "thumb": "少女暴君-彩漂浮.bds_py_26_light_thumb.png",
+      "full": "少女暴君-彩漂浮.bds_py_26_light_thumb.png",
+      "file_id": "8f8b502915fe795b4ed117902c2ce7bc"
     }
   ]
 }
