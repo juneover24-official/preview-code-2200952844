@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "808370795",
-  "updated_at": "2026-10-03T20:59:51+00:00",
+  "updated_at": "2026-10-03T21:00:16+00:00",
   "skins": [
     {
       "name": "砂糖",
@@ -296,6 +296,13 @@
       "thumb": "电子系女孩-融.bds_py_26_light_thumb.png",
       "full": "电子系女孩-融.bds_py_26_light_thumb.png",
       "file_id": "2b0525449968076f31dd29c03f6c6dea"
+    },
+    {
+      "name": "我们最最好",
+      "file": "我们最最好-无背景.bdi",
+      "thumb": "我们最最好-无背景.bdi_py_26_light_thumb.png",
+      "full": "我们最最好-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "f743b4f697426de0a1242ad88d1262ad"
     }
   ]
 }
