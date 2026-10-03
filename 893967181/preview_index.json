@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "893967181",
-  "updated_at": "2026-09-18T18:36:40+00:00",
+  "updated_at": "2026-10-03T21:07:33+00:00",
   "skins": [
     {
       "name": "天使话亭-原poKitty",
@@ -16,6 +16,13 @@
       "thumb": "天使话亭-融.bdi_py_26_light_thumb.png",
       "full": "天使话亭-融.bdi_py_26_light_thumb.png",
       "file_id": "6e6e8d7ec5ad863510ff75840829549c"
+    },
+    {
+      "name": "天使话亭-原poKitty",
+      "file": "天使话亭-彩.bdi",
+      "thumb": "天使话亭-彩.bdi_py_26_light_thumb.png",
+      "full": "天使话亭-彩.bdi_py_26_light_thumb.png",
+      "file_id": "981df1cef04c9e022bc1d768b80fcac6"
     }
   ]
 }
