@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "808370795",
-  "updated_at": "2026-10-03T20:56:53+00:00",
+  "updated_at": "2026-10-03T20:58:35+00:00",
   "skins": [
     {
       "name": "砂糖",
@@ -268,6 +268,13 @@
       "thumb": "柔软的夢无背景.bdi_py_26_light_thumb.png",
       "full": "柔软的夢无背景.bdi_py_26_light_thumb.png",
       "file_id": "fc6a0f0992123b91549a58e67b51a3c6"
+    },
+    {
+      "name": "柔软的夢",
+      "file": "柔软的夢融.bds",
+      "thumb": "柔软的夢融.bds_py_26_light_thumb.png",
+      "full": "柔软的夢融.bds_py_26_light_thumb.png",
+      "file_id": "e5acc7eea6034a42e72fb9f1ade05432"
     }
   ]
 }
