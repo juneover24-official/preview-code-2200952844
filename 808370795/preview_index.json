@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "808370795",
-  "updated_at": "2026-10-03T11:34:53+00:00",
+  "updated_at": "2026-10-03T11:35:12+00:00",
   "skins": [
     {
       "name": "砂糖",
@@ -177,6 +177,13 @@
       "thumb": "止痛药-无背景.bdi_py_26_light_thumb.png",
       "full": "止痛药-无背景.bdi_py_26_light_thumb.png",
       "file_id": "9b31b463c03f4ad508e8b3ff07614205"
+    },
+    {
+      "name": "止痛药-原poKitty",
+      "file": "止痛药-融.bdi",
+      "thumb": "止痛药-融.bdi_py_26_light_thumb.png",
+      "full": "止痛药-融.bdi_py_26_light_thumb.png",
+      "file_id": "78246848259537cdcf1b8616973f52e4"
     }
   ]
 }
