@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-10-07T08:58:43+00:00",
+  "updated_at": "2026-10-07T12:01:01+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -100,6 +100,13 @@
       "thumb": "刀刀_糖果蜜记-彩底1.bds_py_26_light_thumb.png",
       "full": "刀刀_糖果蜜记-彩底1.bds_py_26_light_thumb.png",
       "file_id": "100b6fa16d934b8b69800d6679ae2f39"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "刀刀_糖果蜜记-彩底2.bds",
+      "thumb": "刀刀_糖果蜜记-彩底2.bds_py_26_light_thumb.png",
+      "full": "刀刀_糖果蜜记-彩底2.bds_py_26_light_thumb.png",
+      "file_id": "ed7a644dc3001c65a480fad87a7f1f5c"
     }
   ]
 }
