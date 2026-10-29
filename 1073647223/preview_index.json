@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-10-29T14:08:06+00:00",
+  "updated_at": "2026-10-29T14:08:42+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -128,6 +128,13 @@
       "thumb": "用户未响应-彩脆.bds_py_26_light_thumb.png",
       "full": "用户未响应-彩脆.bds_py_26_light_thumb.png",
       "file_id": "167a387473b2e5c2815c4fca89cda713"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "人偶日记本-原po病涩-彩闷.bds",
+      "thumb": "人偶日记本-原po病涩-彩闷.bds_py_26_light_thumb.png",
+      "full": "人偶日记本-原po病涩-彩闷.bds_py_26_light_thumb.png",
+      "file_id": "496e1fdeeb00a369288de10309e19545"
     }
   ]
 }
