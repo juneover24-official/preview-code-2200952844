@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "377430460",
-  "updated_at": "2026-10-29T11:22:28+00:00",
+  "updated_at": "2026-10-29T11:24:22+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -334,6 +334,13 @@
       "thumb": "電子淚-原po病涩-彩.bdi_py_26_light_thumb.png",
       "full": "電子淚-原po病涩-彩.bdi_py_26_light_thumb.png",
       "file_id": "1173c4f7a41c79a1b4b18135acd75e94"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "Hush脆音2彩底原po刀刀2485367591.bds",
+      "thumb": "Hush脆音2彩底原po刀刀2485367591.bds_py_26_light_thumb.png",
+      "full": "Hush脆音2彩底原po刀刀2485367591.bds_py_26_light_thumb.png",
+      "file_id": "0e7be53ba9e05670579d1ffacffde43f"
     }
   ]
 }
