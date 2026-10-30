@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-10-30T01:40:36+00:00",
+  "updated_at": "2026-10-30T01:40:43+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -159,17 +159,17 @@
     },
     {
       "name": "乐妍底包",
-      "file": "rabbit-融脆.bdi",
-      "thumb": "rabbit-融脆.bdi_py_26_light_thumb.png",
-      "full": "rabbit-融脆.bdi_py_26_light_thumb.png",
-      "file_id": "872663ce8392a4a9ddffa67014770a60"
-    },
-    {
-      "name": "乐妍底包",
       "file": "rabbit-融脆.bds",
       "thumb": "rabbit-融脆.bds_py_26_light_thumb.png",
       "full": "rabbit-融脆.bds_py_26_light_thumb.png",
       "file_id": "f4097b16a8b05913acbd0b391920bfe9"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "rabbit-融脆.bdi",
+      "thumb": "rabbit-融脆.bdi_py_26_light_thumb.png",
+      "full": "rabbit-融脆.bdi_py_26_light_thumb.png",
+      "file_id": "872663ce8392a4a9ddffa67014770a60"
     }
   ]
 }
