@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-10-30T01:38:50+00:00",
+  "updated_at": "2026-10-30T01:39:51+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -142,6 +142,13 @@
       "thumb": "rabbit-彩脆.bdi_py_26_light_thumb.png",
       "full": "rabbit-彩脆.bdi_py_26_light_thumb.png",
       "file_id": "a399bf3b964efd950a531ae6047969cb"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "rabbit-融闷.bds",
+      "thumb": "rabbit-融闷.bds_py_26_light_thumb.png",
+      "full": "rabbit-融闷.bds_py_26_light_thumb.png",
+      "file_id": "921b98465c5f8ec781c145e3574970d7"
     }
   ]
 }
