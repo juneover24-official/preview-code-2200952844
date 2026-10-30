@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "808370795",
-  "updated_at": "2026-10-30T13:17:02+00:00",
+  "updated_at": "2026-10-30T13:18:33+00:00",
   "skins": [
     {
       "name": "砂糖",
@@ -331,6 +331,13 @@
       "thumb": "涂鸦集融.bdi_py_26_light_thumb.png",
       "full": "涂鸦集融.bdi_py_26_light_thumb.png",
       "file_id": "ec0776613faa9d302ce6226e652b906b"
+    },
+    {
+      "name": "涂鸦集",
+      "file": "涂鸦集.bds",
+      "thumb": "涂鸦集.bds_py_26_light_thumb.png",
+      "full": "涂鸦集.bds_py_26_light_thumb.png",
+      "file_id": "4d61c69e0050909c44798de98dd62076"
     }
   ]
 }
