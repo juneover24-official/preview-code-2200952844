@@ -1,6 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1129673482",
+  "updated_at": "2026-11-02T21:26:58+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -8,7 +9,13 @@
       "thumb": "萌是一种天赋-融.bdi_py_26_light_thumb.png",
       "full": "萌是一种天赋-融.bdi_py_26_light_thumb.png",
       "file_id": "1c2274e844643a35a6cd21a4c9ca112c"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "萌是一种天赋-无背景.bdi",
+      "thumb": "萌是一种天赋-无背景.bdi_py_26_light_thumb.png",
+      "full": "萌是一种天赋-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "9ea4bdb3b7832c7f732053d4996780fb"
     }
-  ],
-  "updated_at": "2026-10-31T08:23:02+00:00"
+  ]
 }
