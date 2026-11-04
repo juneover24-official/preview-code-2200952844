@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-11-04T04:26:43+00:00",
+  "updated_at": "2026-11-04T04:29:33+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -240,6 +240,13 @@
       "thumb": "Doll日记-无背景.bdi_py_26_light_thumb.png",
       "full": "Doll日记-无背景.bdi_py_26_light_thumb.png",
       "file_id": "e88b638a9827803b3d2fe831a5987bbd"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "Doll日记.bdi",
+      "thumb": "Doll日记.bdi_py_26_light_thumb.png",
+      "full": "Doll日记.bdi_py_26_light_thumb.png",
+      "file_id": "2f994abbb20b4c65f9cb5e577443b0af"
     }
   ]
 }
