@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-11-07T13:47:50+00:00",
+  "updated_at": "2026-11-07T13:49:21+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -282,6 +282,13 @@
       "thumb": "用户未响应-机械-无背景.bdi_py_26_light_thumb.png",
       "full": "用户未响应-机械-无背景.bdi_py_26_light_thumb.png",
       "file_id": "efed53e78ac07785c54f4f0bc50a5597"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "用户未响应-脆-无背景.bdi",
+      "thumb": "用户未响应-脆-无背景.bdi_py_26_light_thumb.png",
+      "full": "用户未响应-脆-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "f2b7ded6ee056f3ba7b1339689fbdc5b"
     }
   ]
 }
