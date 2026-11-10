@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-11-07T09:11:31+00:00",
+  "updated_at": "2026-11-10T08:30:52+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -242,6 +242,13 @@
       "thumb": "lain-融.bdi_py_26_light_thumb.png",
       "full": "lain-融.bdi_py_26_light_thumb.png",
       "file_id": "1b382f0b624f779b00b81580fe2c08e1"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "lain-无背景.bdi",
+      "thumb": "lain-无背景.bdi_py_26_light_thumb.png",
+      "full": "lain-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "7fd7060f9e487e7fc9fb6e0e24285118"
     }
   ]
 }
