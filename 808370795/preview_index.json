@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "808370795",
-  "updated_at": "2026-11-10T08:44:29+00:00",
+  "updated_at": "2026-11-10T08:45:27+00:00",
   "skins": [
     {
       "name": "砂糖",
@@ -387,6 +387,13 @@
       "thumb": "粉色梦魇.bds_py_26_light_thumb.png",
       "full": "粉色梦魇.bds_py_26_light_thumb.png",
       "file_id": "505d88e275a25dd23b40120235a3a1d1"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "粉色梦魇-无背景.bdi",
+      "thumb": "粉色梦魇-无背景.bdi_py_26_light_thumb.png",
+      "full": "粉色梦魇-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "a5bea9567819aedb9b38f8f33d1c0c08"
     }
   ]
 }
