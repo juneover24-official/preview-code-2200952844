@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-11-12T10:04:10+00:00",
+  "updated_at": "2026-11-12T10:04:15+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -334,13 +334,6 @@
     },
     {
       "name": "乐妍底包",
-      "file": "古早萌番-闷.bdi",
-      "thumb": "古早萌番-闷.bdi_py_26_light_thumb.png",
-      "full": "古早萌番-闷.bdi_py_26_light_thumb.png",
-      "file_id": "db053aeeb13d3c79a96a60de0abe1d5d"
-    },
-    {
-      "name": "乐妍底包",
       "file": "古早萌番-脆-无背景.bdi",
       "thumb": "古早萌番-脆-无背景.bdi_py_26_light_thumb.png",
       "full": "古早萌番-脆-无背景.bdi_py_26_light_thumb.png",
@@ -373,6 +366,13 @@
       "thumb": "古早萌番-脆.bdi_py_26_light_thumb.png",
       "full": "古早萌番-脆.bdi_py_26_light_thumb.png",
       "file_id": "fd863bff47b0f26bbe6f7fec234bac89"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "古早萌番-闷.bdi",
+      "thumb": "古早萌番-闷.bdi_py_26_light_thumb.png",
+      "full": "古早萌番-闷.bdi_py_26_light_thumb.png",
+      "file_id": "db053aeeb13d3c79a96a60de0abe1d5d"
     }
   ]
 }
