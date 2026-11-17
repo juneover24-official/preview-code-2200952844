@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "204961217",
-  "updated_at": "2026-11-17T01:07:19+00:00",
+  "updated_at": "2026-11-17T01:14:35+00:00",
   "skins": [
     {
       "name": "名字不建议加多余的符号",
@@ -277,6 +277,13 @@
       "thumb": "玖兰枢.bdi_py_26_light_thumb.png",
       "full": "玖兰枢.bdi_py_26_light_thumb.png",
       "file_id": "a3072841cb4d37ecff31dd18872d84e6"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "玖兰枢.bds",
+      "thumb": "玖兰枢.bds_py_26_light_thumb.png",
+      "full": "玖兰枢.bds_py_26_light_thumb.png",
+      "file_id": "ba8b42c21a242bd0bd3356a564ae5e3f"
     }
   ]
 }
