@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-11-18T01:43:24+00:00",
+  "updated_at": "2026-11-18T01:43:32+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -380,6 +380,13 @@
       "thumb": "电子故障簿.bds_py_26_light_thumb.png",
       "full": "电子故障簿.bds_py_26_light_thumb.png",
       "file_id": "5be63a96b925582d3808e9c5d1374cd2"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "电子故障簿.bdi",
+      "thumb": "电子故障簿.bdi_py_26_light_thumb.png",
+      "full": "电子故障簿.bdi_py_26_light_thumb.png",
+      "file_id": "c695a96ccc9df466df47d8d8f3a87343"
     }
   ]
 }
