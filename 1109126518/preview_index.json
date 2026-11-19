@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1109126518",
-  "updated_at": "2026-09-30T08:52:38+00:00",
+  "updated_at": "2026-11-19T06:16:12+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -30,6 +30,13 @@
       "thumb": "itsme-彩.bdi_py_26_light_thumb.png",
       "full": "itsme-彩.bdi_py_26_light_thumb.png",
       "file_id": "4136891ebbf2be6ed58288fc0f7bfc2f"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "itsme-融.bds",
+      "thumb": "itsme-融.bds_py_26_light_thumb.png",
+      "full": "itsme-融.bds_py_26_light_thumb.png",
+      "file_id": "70bd81e0f0950f450cc08986080dcff6"
     }
   ]
 }
