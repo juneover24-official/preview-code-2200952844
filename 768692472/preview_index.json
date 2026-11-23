@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "768692472",
-  "updated_at": "2026-10-02T08:19:14+00:00",
+  "updated_at": "2026-11-23T22:18:46+00:00",
   "skins": [
     {
       "name": "心事",
@@ -23,6 +23,13 @@
       "thumb": "心事彩.bds_py_26_light_thumb.png",
       "full": "心事彩.bds_py_26_light_thumb.png",
       "file_id": "1e2ffcb8b38b2edd0235fb3fe3fea6d6"
+    },
+    {
+      "name": "心事",
+      "file": "心事彩.bdi",
+      "thumb": "心事彩.bdi_py_26_light_thumb.png",
+      "full": "心事彩.bdi_py_26_light_thumb.png",
+      "file_id": "369211680c71bbc85b1499bd4e734a38"
     }
   ]
 }
