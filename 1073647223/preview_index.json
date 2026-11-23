@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-11-23T04:49:17+00:00",
+  "updated_at": "2026-11-23T04:49:35+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -411,17 +411,17 @@
     },
     {
       "name": "乐妍底包",
-      "file": "贴纸收藏册.bdi",
-      "thumb": "贴纸收藏册.bdi_py_26_light_thumb.png",
-      "full": "贴纸收藏册.bdi_py_26_light_thumb.png",
-      "file_id": "2b88017997efd1133c554998dd688fac"
-    },
-    {
-      "name": "乐妍底包",
       "file": "贴纸收藏册无背景-无背景.bdi",
       "thumb": "贴纸收藏册无背景-无背景.bdi_py_26_light_thumb.png",
       "full": "贴纸收藏册无背景-无背景.bdi_py_26_light_thumb.png",
       "file_id": "d9b94ca37915bf7d3e03eb5ed1385044"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "贴纸收藏册.bdi",
+      "thumb": "贴纸收藏册.bdi_py_26_light_thumb.png",
+      "full": "贴纸收藏册.bdi_py_26_light_thumb.png",
+      "file_id": "2b88017997efd1133c554998dd688fac"
     }
   ]
 }
