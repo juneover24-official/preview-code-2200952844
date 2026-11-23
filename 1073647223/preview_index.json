@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1073647223",
-  "updated_at": "2026-11-23T04:48:19+00:00",
+  "updated_at": "2026-11-23T04:48:48+00:00",
   "skins": [
     {
       "name": "星期一",
@@ -415,6 +415,13 @@
       "thumb": "贴纸收藏册.bds_py_26_light_thumb.png",
       "full": "贴纸收藏册.bds_py_26_light_thumb.png",
       "file_id": "8c679f8cef376e376acef906e4a412cc"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "贴纸收藏册.bdi",
+      "thumb": "贴纸收藏册.bdi_py_26_light_thumb.png",
+      "full": "贴纸收藏册.bdi_py_26_light_thumb.png",
+      "file_id": "2b88017997efd1133c554998dd688fac"
     }
   ]
 }
