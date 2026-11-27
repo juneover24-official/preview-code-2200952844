@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1126811024",
-  "updated_at": "2026-11-27T12:30:38+00:00",
+  "updated_at": "2026-11-27T12:30:52+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -33,13 +33,6 @@
     },
     {
       "name": "乐妍底包",
-      "file": "人偶天堂漂浮特别版ios音.bdi",
-      "thumb": "人偶天堂漂浮特别版ios音.bdi_py_26_light_thumb.png",
-      "full": "人偶天堂漂浮特别版ios音.bdi_py_26_light_thumb.png",
-      "file_id": "092df4b6a3ad361d4e14d37c366e9c99"
-    },
-    {
-      "name": "乐妍底包",
       "file": "人偶天堂漂浮特别版ios音.bds",
       "thumb": "人偶天堂漂浮特别版ios音.bds_py_26_light_thumb.png",
       "full": "人偶天堂漂浮特别版ios音.bds_py_26_light_thumb.png",
@@ -51,6 +44,13 @@
       "thumb": "人偶天堂脆.bds_py_26_light_thumb.png",
       "full": "人偶天堂脆.bds_py_26_light_thumb.png",
       "file_id": "d2b06f4e24717a654cc87d69c4559791"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "人偶天堂漂浮特别版ios音.bdi",
+      "thumb": "人偶天堂漂浮特别版ios音.bdi_py_26_light_thumb.png",
+      "full": "人偶天堂漂浮特别版ios音.bdi_py_26_light_thumb.png",
+      "file_id": "092df4b6a3ad361d4e14d37c366e9c99"
     }
   ]
 }
