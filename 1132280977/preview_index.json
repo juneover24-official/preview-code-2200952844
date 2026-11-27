@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1132280977",
-  "updated_at": "2026-11-27T12:12:18+00:00",
+  "updated_at": "2026-11-27T12:28:00+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -9,6 +9,13 @@
       "thumb": "波点天使心-动效脆音.bdi_py_26_light_thumb.png",
       "full": "波点天使心-动效脆音.bdi_py_26_light_thumb.png",
       "file_id": "3416411de0b927d84326be28b7b38bae"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "波点天使心-动效脆音-无背景.bdi",
+      "thumb": "波点天使心-动效脆音-无背景.bdi_py_26_light_thumb.png",
+      "full": "波点天使心-动效脆音-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "da80f4d015c8fd89a64a74528e1f530b"
     }
   ]
 }
