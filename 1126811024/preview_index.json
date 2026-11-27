@@ -1,7 +1,7 @@
 {
   "qq_number": "2200952844",
   "group_number": "1126811024",
-  "updated_at": "2026-11-27T12:22:54+00:00",
+  "updated_at": "2026-11-27T12:23:41+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -12,17 +12,17 @@
     },
     {
       "name": "乐妍底包",
-      "file": "人偶天堂闷.bdi",
-      "thumb": "人偶天堂闷.bdi_py_26_light_thumb.png",
-      "full": "人偶天堂闷.bdi_py_26_light_thumb.png",
-      "file_id": "611140de8180a23dee00623036330e80"
-    },
-    {
-      "name": "乐妍底包",
       "file": "人偶天堂闷-无背景-无背景.bdi",
       "thumb": "人偶天堂闷-无背景-无背景.bdi_py_26_light_thumb.png",
       "full": "人偶天堂闷-无背景-无背景.bdi_py_26_light_thumb.png",
       "file_id": "bda0f27d440d06b75e753dc6281c0fc3"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "人偶天堂闷.bdi",
+      "thumb": "人偶天堂闷.bdi_py_26_light_thumb.png",
+      "full": "人偶天堂闷.bdi_py_26_light_thumb.png",
+      "file_id": "611140de8180a23dee00623036330e80"
     }
   ]
 }
